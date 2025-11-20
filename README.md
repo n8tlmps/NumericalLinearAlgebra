@@ -11,3 +11,7 @@ general matrix to a similar upper Hessenberg matrix.
 QR factorization of A, A = QR, where Q is orthogonal and is a
 product of Householder matrices, and R is upper triangular. The
 role of QR factorization is similar to that of LU factorization.
+
+### Given's Rotation Matrix
+
+### Gram-Schmidt procedure
